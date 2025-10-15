@@ -1,4 +1,4 @@
-# 💼 Portfólio Pessoal – Juh
+# 💼 Portfólio Pessoal – Juliana Miiller
 
 Este é o meu portfólio de programação, desenvolvido com **HTML** e **CSS** para um projeto acadêmico.  
 O objetivo é apresentar minhas habilidades, experiências e projetos de forma clara, moderna e elegante — inspirada em um design minimalista de UI/UX.
@@ -23,8 +23,9 @@ Este portfólio foi criado para ser meu **cartão de visitas digital**, destacan
 
 ## 👩‍💻 Sobre Mim
 
-Sou **programadora Back-End** e estudante de **Engenharia de Software (2º período)**.  
-Tenho experiência com:
+Sou **programadora Back-End** e estudante de **Engenharia de Software (2º período)**. 
+
+### 💡 Principais habilidades
 
 - 🐍 **Python** e **Django**  
 - 🧩 **Programação Orientada a Objetos (POO)**  
@@ -34,15 +35,6 @@ Tenho experiência com:
 - 🌐 **HTML e CSS**
 
 Meu foco é criar soluções funcionais e bem estruturadas, sempre com uma boa dose de curiosidade e vontade de aprender mais.
-
-### 💡 Principais habilidades
-
-- 🐍 **Python** e **Django**  
-- 🧩 **Programação Orientada a Objetos (POO)**  
-- 🗄️ **Banco de Dados (SQL)**  
-- 🧠 **Lógica de Programação**  
-- 🛠️ **Git & GitHub**  
-- 🌐 **HTML & CSS**
 
 ---
 
