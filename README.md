@@ -49,3 +49,4 @@ Abra o terminal e execute:
 ```bash
 git clone https://github.com/julianamiiller/trabalho-academico-portifolio.git
 
+https://miiller.netlify.app/
