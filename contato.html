@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contato - Juliana Miiller</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800&display=swap" rel="stylesheet">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>JM</text></svg>">
+</head>
+<body>
+  
+  <header class="site-header">
+    <div class="container">
+      <nav class="main-nav">
+        <a href="index.html" class="nav-brand">Juliana Miiller</a>
+        <div class="nav-links">
+          <a href="index.html">Home</a>
+          <a href="sobre.html">Sobre Mim</a>
+          <a href="projetos.html">Projetos</a>
+          <a href="contato.html" class="active">Contato</a>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="contato" class="section contact">
+      <h2>Contato</h2>
+      <p>Quer desenvolver um projeto comigo?</p>
+      <p>Entre em contato e vamos criar algo incrível juntos!</p>
+      <div class="contact-links">
+        <a href="mailto:seu-email@exemplo.com">📧 E-mail</a>
+        <a href="https://github.com/julianamiiller" target="_blank">🐙 GitHub</a>
+        <a href="https://www.instagram.com/julianamiiller_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">💬 Instagram</a>
+      </div>
+
+      <!-- Dica do PDF: Formulário funcional -->
+      <form class="contact-form" action="mailto:seu-email-aqui@exemplo.com" method="post" enctype="text/plain">
+        <h3>Ou me mande uma mensagem direta:</h3>
+        <div class="form-group">
+          <label for="name">Nome:</label>
+          <input type="text" id="name" name="name" required>
+        </div>
+        <div class="form-group">
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required>
+        </div>
+        <div class="form-group">
+          <label for="message">Mensagem:</label>
+          <textarea id="message" name="message" rows="5" required></textarea>
+        </div>
+        <div class="form-group">
+          <button type="submit" class="btn-submit">Enviar Mensagem</button>
+        </div>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>Juliana Miiller - Todos os direitos reservados</p>
+  </footer>
+
+</body>
+</html>
+
