@@ -53,7 +53,3 @@ Abra o terminal e execute:
 
 ```bash
 git clone https://github.com/julianamiiller/trabalho-academico-portifolio.git
-
- 🌐 Demonstração  
-
-🔗 **[Acesse o projeto aqui](https://miiller.netlify.app/)**  
