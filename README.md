@@ -38,6 +38,11 @@ Meu foco é criar soluções funcionais e bem estruturadas, sempre com uma boa d
 
 ---
 
+🌐 Demonstração  
+
+🔗 **[Acesse o projeto aqui](https://miiller.netlify.app/)**  
+
+
 ## 🧩 Como Clonar e Executar o Projeto
 
 Se quiser visualizar ou editar este portfólio localmente, siga os passos abaixo:
@@ -49,6 +54,6 @@ Abra o terminal e execute:
 ```bash
 git clone https://github.com/julianamiiller/trabalho-academico-portifolio.git
 
-## 🌐 Demonstração  
+ 🌐 Demonstração  
 
 🔗 **[Acesse o projeto aqui](https://miiller.netlify.app/)**  
