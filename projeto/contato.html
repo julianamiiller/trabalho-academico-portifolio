@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contato - Juliana Miiller</title>
+  <link rel="stylesheet" href="../css/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800&display=swap" rel="stylesheet">
+  <link rel="icon"
+    href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>JM</text></svg>">
+</head>
+
+<body>
+
+  <header class="cabecalho-site">
+    <div class="container">
+      <nav class="nav-principal">
+        <a href="index.html" class="marca-nav">Juliana Miiller</a>
+        <div class="links-nav">
+          <a href="index.html">Home</a>
+          <a href="sobre.html">Sobre Mim</a>
+          <a href="projetos.html">Projetos</a>
+          <a href="contato.html" class="ativo">Contato</a>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="contato" class="secao contato">
+      <h2>Contato</h2>
+      <p>Quer desenvolver um projeto comigo?</p>
+      <p>Entre em contato e vamos criar algo incrível juntos!</p>
+
+      <div class="links-contato">
+        <a href="mailto:seu-email@exemplo.com">📧 E-mail</a>
+        <a href="https://github.com/julianamiiller" target="_blank">🐙 GitHub</a>
+        <a href="https://www.instagram.com/julianamiiller_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+          target="_blank">💬 Instagram</a>
+      </div>
+
+
+      <form class="formulario-contato" action="https://api.web3forms.com/submit" method="POST">
+        <h3>Ou me mande uma mensagem direta:</h3>
+
+        <input type="hidden" name="access_key" value="f2729614-d570-4103-b453-42cb91fbcdda">
+
+        <input type="hidden" name="redirect" value="https://miiller.netlify.app/obrigado">
+
+        <input type="hidden" name="subject" value="Nova mensagem do site de Juliana!">
+
+        <input type="hidden" name="captcha" value="true">
+
+        <div class="grupo-formulario">
+          <label for="nome">Nome:</label>
+          <input type="text" id="nome" name="name" required>
+        </div>
+
+        <div class="grupo-formulario">
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required>
+        </div>
+
+        <div class="grupo-formulario">
+          <label for="mensagem">Mensagem:</label>
+          <textarea id="mensagem" name="message" rows="5" required></textarea>
+        </div>
+
+        <div class="grupo-formulario">
+          <button type="submit" class="btn-enviar">Enviar Mensagem</button>
+        </div>
+      </form>
+
+    </section>
+  </main>
+
+  <footer>
+    <p>Juliana Miiller - Todos os direitos reservados</p>
+  </footer>
+
+</body>
+
+</html>
